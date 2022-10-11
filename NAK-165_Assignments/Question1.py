@@ -1,4 +1,4 @@
-print("INheritance - Create a Bus class that inherits from the Vehicle class. Give the capacity argument of Bus.seating_capacity() a default value of 50.")
+print("Inheritance - Create a Bus class that inherits from the Vehicle class. Give the capacity argument of Bus.seating_capacity() a default value of 50.")
 class Vehicle:
     def __init__(self, name, max_speed, mileage):
         self.name = name
